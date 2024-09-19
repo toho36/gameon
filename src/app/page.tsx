@@ -11,7 +11,7 @@ export default function Home() {
           marginWidth={0}
           title="Registration Form"
         >
-          Loading…
+          Loading
         </iframe>
       </div>
     </div>
